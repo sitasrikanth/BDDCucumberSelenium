@@ -1,6 +1,7 @@
 #Author: Srikanth
 #Date: 12-12-2020
 #Description: To test the login feature
+#Tags: We can use the selected tags to run. ex: @Smokefeatures and @SmokeTests
 
 
 @SmokeFeatures
