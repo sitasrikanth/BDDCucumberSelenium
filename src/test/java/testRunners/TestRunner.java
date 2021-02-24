@@ -6,7 +6,7 @@ import io.cucumber.junit.CucumberOptions;
 import io.cucumber.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="src/test/resources/features",glue= {"stepDefinitions"}, 
+@CucumberOptions(features="src/test/resources/features/LoginWebOrders.feature",glue= {"stepDefinitions"}, 
 monochrome = true,
 plugin= {"pretty","html:target/HTMLReports"},
 tags="@SmokeTests")
