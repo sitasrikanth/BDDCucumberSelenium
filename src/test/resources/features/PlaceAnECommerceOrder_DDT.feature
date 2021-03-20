@@ -18,8 +18,8 @@ Feature: Place an E-Commerce Order
     Then user clicks proceed to checkout button
 
 Examples:
-	|dressType|dressName						|size|quantity|color|
+	|dressType|dressName					|size|quantity|color|
 	|Casual		|Printed Dress				|S		| 1			|Orange|
-	|Evening	|Printed Dress				|M		| 2			|Beige|
-	|Summer		|Printed Summer Dress |M		| 3			|Blue|
+#	|Evening	|Printed Dress				|M		| 2			|Beige|
+#	|Summer		|Printed Summer Dress 		|M	| 3			|Blue|
     	
